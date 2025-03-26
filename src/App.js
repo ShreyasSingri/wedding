@@ -9,6 +9,7 @@ function App() {
         <p>
           Wedding invitation
         </p>
+        <h2>Shreyas Weds Sankalpa</h2>
       </header>
     </div>
   );
