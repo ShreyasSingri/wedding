@@ -25,7 +25,7 @@ function App() {
       {/* <iframe src="https://drive.google.com/file/d/10HXhe3UGZRlcp2yO5J8wXQ_x-BC7EjYj/preview"loading="lazy" width="640" height="360" allow="autoplay" title="Wedding Invitation Video"></iframe> */}
       <div className="video-container">
       <iframe
-        src="https://drive.google.com/file/d/10HXhe3UGZRlcp2yO5J8wXQ_x-BC7EjYj/preview"
+        src="https://drive.google.com/file/d/1FvzkVhckOwI5i1C_r2-zx15_9_9luZoD/preview"
         title="Google Drive Video"
         className="video-iframe"
         allow="autoplay"
