@@ -23,7 +23,6 @@ function App() {
         </div>
       </div>
       <br />
-      {/* <iframe src="https://drive.google.com/file/d/10HXhe3UGZRlcp2yO5J8wXQ_x-BC7EjYj/preview"loading="lazy" width="640" height="360" allow="autoplay" title="Wedding Invitation Video"></iframe> */}
       <div className="video-container">
         <iframe
           src="https://drive.google.com/file/d/1OYCPWgxFChXv5Ds6rixtK6oFOX7GqPaV/preview"
@@ -58,9 +57,6 @@ function App() {
       <br />
       <br />
       <h2>Awaiting your presence<br />Join us to make our day Special & Memoreable!!!</h2>
-      <br />
-      <h3>With love from<br />Shreyas & Sankalpa</h3>
-      <br />
       <br />
       <br />
       <br />
