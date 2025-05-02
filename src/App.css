@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal:wght@400;700&display=swap');
+
+
 .App {
   text-align: center;
   height: 100vh;
@@ -6,7 +9,14 @@
   background-color: #006D77;
   color: #FFDDD2;
 }
+h1, h2 {
+  font-family: 'The Nautigal', cursive;
+  font-weight: 1500;
+  font-size: xx-large;
+}
+
 p {
+  font-size: larger;
   margin: 0;
   color: #FFDDD2;
 }

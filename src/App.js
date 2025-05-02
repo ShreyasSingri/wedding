@@ -25,7 +25,7 @@ function App() {
       {/* <iframe src="https://drive.google.com/file/d/10HXhe3UGZRlcp2yO5J8wXQ_x-BC7EjYj/preview"loading="lazy" width="640" height="360" allow="autoplay" title="Wedding Invitation Video"></iframe> */}
       <div className="video-container">
       <iframe
-        src="https://drive.google.com/file/d/1FvzkVhckOwI5i1C_r2-zx15_9_9luZoD/preview"
+        src="https://drive.google.com/file/d/1OYCPWgxFChXv5Ds6rixtK6oFOX7GqPaV/preview"
         title="Google Drive Video"
         className="video-iframe"
         allow="autoplay"
@@ -47,6 +47,7 @@ function App() {
       <h2>Venue:</h2>
       <h3>Vasavi Convention Hall</h3>
       <p>4, Vanivilas Rd, Beside to Vasavi Vidyanikethan High School,<br/> Vishweshwarapura, Basavanagudi, Bengaluru, Karnataka 560004</p>
+      <br />
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.3648916621173!2d77.573611274841!3d12.948487087364704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15ec317ff977%3A0x8c8ae92292729817!2sVasavi%20Convention%20Center!5e0!3m2!1sen!2sin!4v1743265812525!5m2!1sen!2sin"
         title='Google Maps'
         style={{ border: 0 }}
@@ -55,7 +56,33 @@ function App() {
         referrerpolicy="no-referrer-when-downgrade"></iframe>
         <br />
         <br />
-        <h2>Awaiting your presence</h2>
+        <h2>Awaiting your presence<br />Join us to make our day Special & Memoreable!!!</h2>
+        <br />
+        <h2>Check out more .....</h2>
+        <div className="video-container">
+      <iframe
+        src="https://drive.google.com/file/d/1PBRAZnXO0YW5whaO-MaQPgL30mSg4fMH/preview"
+        title="Google Drive Video"
+        className="video-iframe"
+        allow="autoplay"
+        frameBorder="0"
+      ></iframe>
+    </div>
+        <br />
+        <br />
+        <div className="video-container">
+      <iframe
+        src="https://drive.google.com/file/d/1P3IdDC-9sSSGsx_swAJ0epv4SKUG2NsP/preview"
+        title="Google Drive Video"
+        className="video-iframe"
+        allow="autoplay"
+        frameBorder="0"
+      ></iframe>
+    </div>
+        <br />
+        <br />
+        <br />
+        <br />
     </div>
   );
 }
